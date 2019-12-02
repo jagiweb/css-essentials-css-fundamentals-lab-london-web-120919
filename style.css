@@ -13,3 +13,6 @@ header {
   margin-right: auto;
   width: 50%;
 }
+nav, a{
+  padding: 10px;
+}
